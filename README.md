@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pmprete&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="pmprete" />
+</p>
+
+<!--
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmprete&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmprete&layout=compact&langs_count=6&theme=blue-green&hide_border=true" />
+-->
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmprete&theme=blue-green&hide_border=true" alt="pmprete" />
+</p>
